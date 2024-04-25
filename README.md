@@ -9,7 +9,7 @@
 
 <img align="center" src="css/preview.png" alt="imagem do projeto"/>
 
-#### Clica ne link e divirta-se 👉 
+#### Clica ne link e divirta-se 👉 https://arymanreis.github.io/Box_shadow/
 
 #### Tecnologias Usadas no projeto
 
